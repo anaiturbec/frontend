@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+
+.main{
+    width:100%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #353A58;
+    height: 50px;
+}
+
+.nav img{
+    height: 90px;   
+}
+
+
+.body{
+    background-color: white;
+    height: 340px;
+}
+
+
+.title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    color: #FF6633;
+    padding-top: 40px;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.horizontal-div{
+    width: 100%;
+}
+
+.title-div{
+    width: 52%;
+    text-align: left;
+    float: left;
+}
+
+.product-div img{
+    width: 200px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.product-div{
+    width: 40%;
+    height: 270px;
+    background-color: #353A58; 
+    float: left;
+    margin-top: 40px;
+    border-radius: 10px
+
+}
+
+.product-text-div{
+    margin-top: 20%;
+}
+
+.product-text-div h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 37px;
+    color: white;
+    margin-top: -30px;
+
+}
+
+.product-text-div p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    color: white;
+
+}
+
+.product-space{
+    width: 90%;
+
+}
+
+.product {
+    height: 28%;
+    width: 45%;
+    background-color: #EEEEEE;
+    float: left;
+    margin-left: 5%;
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    
+}
+
+
+.product img{
+    width: 120px;
+    border-radius: 10px;
+    margin-top: 2%;
+    float: left;
+    margin-left: 2%;
+    align-items: center;
+    
+
+}
+
+.block-1{
+    float: left;
+    margin-left: 10%;
+    width: 45%
+}
+
+.block-2{
+    float:left;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+button {
+    color: white;
+    font-size: 21px;
+    background-color: #353A58;
+    border: none;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+button:hover{
+    color: #353A58;
+    background-color: white;
+}
+
+.title-product{
+    color: #353A58;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+}
+
+.description{
+    color: #353A58;
+    font-family: "Montserrat", sans-serif;
+    margin-top: -6%;
+}
